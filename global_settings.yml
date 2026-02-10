@@ -5,4 +5,6 @@ overrides:
     query.result.max_rows: 200000
     security.runtimePermissions.measures.enabled: true
     auth.runtimePermissions.disabled: false
+    xmla.cube.lastDataUpdate.enabled: true
+    xmla.cube.lastDataUpdate.duration: 10 minutes
     
